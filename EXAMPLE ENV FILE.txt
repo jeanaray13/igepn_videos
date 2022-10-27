@@ -1,0 +1,9 @@
+[MONGODB]
+IP = "XXX.XXX.XXX.XXX"
+db_name = "db_name"
+username = "user"
+password = "pass"
+authsource = "admin"
+
+[BACKEND]
+PORT_BACKEND = 5000
