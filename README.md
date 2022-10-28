@@ -29,3 +29,5 @@ $ sudo tar -C /usr/local --strip-components 1 -xJf node-v18.12.0-linux-x64.tar.x
    - On console 1 (backend): ```$ npm run server```.
    - On the other console (frontend): ```$ npm start```. 
 
+## Dockerize your React app
+**More information:** https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e
