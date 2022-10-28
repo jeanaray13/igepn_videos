@@ -25,7 +25,7 @@ const UpdateVideo = () => {
             <p><b>Video URL:</b> <a href={video.videoURL} target="_blank" rel='noreferrer'>{video.videoURL}</a></p>
             <p><b>Description:</b> {video.description}</p>
             <br/>
-            <button className='btn_detail' onClick={e=>navigate('/video/"+video._id+"/edit')}>Edit</button>
+            <button className='btn_detail' onClick={e=>navigate('/video/'+video._id+'/edit')}>Edit</button>
             <br/>
             <br/>
             <button className='btn_delete' onClick={e=>navigate('/')}>Dashboard</button>
