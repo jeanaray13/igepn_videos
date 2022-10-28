@@ -1,0 +1,6 @@
+Crear un archivo .dockerignore e ingresar lo siguiente:
+
+**/node_modules
+**/npm-debug.log
+**/frontend
+build
